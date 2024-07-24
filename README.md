@@ -45,6 +45,6 @@ Supervised fine-tuning GPT-2 model for text summarization, training a reward mod
 
 Fine-tunining [Misteral 7B](https://huggingface.co/mistralai/Mistral-7B-v0.1) model with [QLora](https://arxiv.org/abs/2305.14314) to follow the instructions and examining [Mistral 7B Instruct](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1) model
 
-### Part 3 - Evaluation Text Using a language model
+### Part 3 - Evaluation Text Using an LM
 
 Evaluating text using manually implemented and official [BERTScore](https://arxiv.org/abs/1904.09675)
